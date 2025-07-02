@@ -1,4 +1,4 @@
-# LAB 5 - Mini Capstone: Pizza Ordering
+# LAB 6 - Mini Capstone: Pizza Ordering
 
 ### Cadet Name: Rafael Nico T. Maniquiz
 ### Project Name: FECP-Java-Session1-PizzaOrdering
